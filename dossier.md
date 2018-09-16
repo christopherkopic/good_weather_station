@@ -11,3 +11,6 @@ Links to hardware, software, tutorials, other useful info.
 
 ## Libraries:
 - [GxEPD](https://github.com/ZinggJM/GxEPD)
+
+## Similar Projects:
+- [Kevin Darrah - Youtube Stats Display](http://www.kevindarrah.com/wiki/index.php?title=EPaperBoard)
