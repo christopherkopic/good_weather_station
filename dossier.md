@@ -18,3 +18,6 @@ Links to hardware, software, tutorials, other useful info.
 - [Kevin Darrah - Youtube Stats Display](http://www.kevindarrah.com/wiki/index.php?title=EPaperBoard)
 - [Educ8s - Esp8266 Weather Station](http://educ8s.tv/esp8266-weather-display/)
 - [Losant - Esp2866 Deep Sleep](https://www.losant.com/blog/making-the-esp8266-low-powered-with-deep-sleep)
+
+## APIs
+- [OpenWeatherMap](https://openweathermap.org/appid)
