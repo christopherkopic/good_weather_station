@@ -8,6 +8,7 @@ Links to hardware, software, tutorials, other useful info.
 ## Additional / better hardware:
 - [Waveshare 7.5inch e-paper display](https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT_(C))
 - [Adafruit Power Boost 1000](https://www.adafruit.com/product/2465)
+- [Adafruit Reset Enable Timer](https://learn.adafruit.com/adafruit-tpl5111-reset-enable-timer-breakout/overview)
 
 ## Libraries:
 - [GxEPD](https://github.com/ZinggJM/GxEPD)
